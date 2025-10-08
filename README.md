@@ -59,7 +59,7 @@
 - 💻 Desenvolvendo minhas habilidades em backend com Java e Spring Boot através de projetos pessoais.
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal da Bahia (IFBA).
 - ⚙️ Buscando constantemente aprimorar minhas práticas e dominar o ecossistema Java, com foco em me tornar dev backend.
-- - ☁️ Estudando e me preparando para certificações em Cloud e outras especializações em tecnologia.
+- ☁️ Estudando e me preparando para certificações em Cloud e outras especializações em tecnologia.
 - 😄 Pronomes: Ele / Dele
 - 🎮 Fato divertido: Sou o tipo de cara que pode passar horas falando sobre jogos, filosofia e a vida — às vezes tudo ao mesmo tempo.
--->
+
